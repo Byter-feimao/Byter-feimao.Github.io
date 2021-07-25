@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://byter-feimao.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Byter</title>
-    <updated>2021-07-25T11:01:45.304Z</updated>
+    <updated>2021-07-25T11:01:00.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://byter-feimao.github.io"/>
-    <link rel="self" href="https://byter-feimao.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>普通高中生的个人站</subtitle>
-    <logo>https://byter-feimao.github.io/images/avatar.png</logo>
-    <icon>https://byter-feimao.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, Byter</rights>
     <entry>
         <title type="html"><![CDATA[10 分钟教你创建个人网站 —— 傻瓜式的网站搭建教学]]></title>
-        <id>https://byter-feimao.github.io/post/10-fen-zhong-jiao-ni-chuang-jian-ge-ren-wang-zhan-sha-gua-shi-de-wang-zhan-da-jian-jiao-xue/</id>
-        <link href="https://byter-feimao.github.io/post/10-fen-zhong-jiao-ni-chuang-jian-ge-ren-wang-zhan-sha-gua-shi-de-wang-zhan-da-jian-jiao-xue/">
+        <id>http://localhost:4000/post/10-fen-zhong-jiao-ni-chuang-jian-ge-ren-wang-zhan-sha-gua-shi-de-wang-zhan-da-jian-jiao-xue/</id>
+        <link href="http://localhost:4000/post/10-fen-zhong-jiao-ni-chuang-jian-ge-ren-wang-zhan-sha-gua-shi-de-wang-zhan-da-jian-jiao-xue/">
         </link>
         <updated>2020-02-23T15:25:24.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
@@ -21,38 +21,38 @@
 请放心，全程不会产生任何费用，所以就算你跟我一样寒酸，也可以轻松的创建一个个人网站</p>
 <h1 id="注册github">注册Github</h1>
 <p>首先，因为网站是托管在Github Pages上的，所以首先我们要注册一个<a href="https://github.com/">Github</a>账号（同样，代码也可以托管在Coding Pages中，有兴趣的同学自己尝试，这里只谈用Github Pages的方法）。<br>
-<img src="https://byter-feimao.github.io/post-images/1582507159452.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1582507159452.png" alt="" loading="lazy"><br>
 自上而下依次是：用户名、邮箱、密码</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507173524.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507173524.png" alt="" loading="lazy"><br>
 下一步</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507196702.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507196702.png" alt="" loading="lazy"><br>
 Choose Free</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507214828.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507214828.png" alt="" loading="lazy"><br>
 一些个性化设置，可以直接跳过往下滑</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507226534.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507226534.png" alt="" loading="lazy"><br>
 直接Skip this step跳过</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582506935952.jpg" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582506935952.jpg" alt="" loading="lazy"><br>
 进行邮箱验证</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582506985364.jpg" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582506985364.jpg" alt="" loading="lazy"><br>
 验证完成后就可以开始使用了，第一步完成！</p>
 <h1 id="创建仓库">创建仓库</h1>
 <p>接下来我们要创建一个仓库，用于存放网页代码（放心，不需要你来写代码），点击Start a Project<br>
-<img src="https://byter-feimao.github.io/post-images/1582507281811.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1582507281811.png" alt="" loading="lazy"><br>
 请注意，Repository name（即仓库名）须按照图示方法填写，即 用户名.github.io（填写你自己注册时使用的用户名），然后直接Create Repository（可以不用像图示一样勾选README）。</p>
 <h1 id="创建令牌">创建令牌</h1>
 <p>顾名思义，令牌就是通行证，有了令牌我们才能在后续的步骤中将我们的代码上传到仓库中<br>
-<img src="https://byter-feimao.github.io/post-images/1582507321399.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1582507321399.png" alt="" loading="lazy"><br>
 点击左上角的头像，进入设置</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507369772.png" alt="" loading="lazy"><br>
-<img src="https://byter-feimao.github.io/post-images/1582507395903.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507369772.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1582507395903.png" alt="" loading="lazy"><br>
 选择最下面的Developer settings</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507408567.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507408567.png" alt="" loading="lazy"><br>
 选择Personal access tokens，然后Generate new token</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507422169.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507422169.png" alt="" loading="lazy"><br>
 接下来，Note栏随便填一下，在下面的Select scopes中勾选repo即可。</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507431886.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507431886.png" alt="" loading="lazy"><br>
 直接Generate token</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582507443826.jpg" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582507443826.jpg" alt="" loading="lazy"><br>
 接下来生成的一串神秘代码（大雾）就是令牌了，复制后记得保存起来，令牌只会出现这一次，丢失的话就只能重新创建了。</p>
 <h1 id="gridea">Gridea</h1>
 <p>接下来就是穷极大杀器登场的时候了！，<a href="https://github.com/getgridea/gridea">Gridea</a>可以直接让你使用预制好的网页模版（免去了自己写代码的步骤，当然你想自己创建模版也是可以的）。<br>
@@ -61,13 +61,13 @@ Choose Free</p>
 <a href="https://pan.baidu.com/s/1yqhfnzoNvjaFBb4-OCiw-g">百度云</a>  密码:u4fn<br>
 <a href="https://github.com/getgridea/gridea/releases">Github</a></p>
 <p>一波安装操作以后，我们进入Gridea界面<br>
-<img src="https://byter-feimao.github.io/post-images/1582513672918.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1582513672918.png" alt="" loading="lazy"><br>
 从侧边栏进入“远程”界面</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582513693732.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582513693732.png" alt="" loading="lazy"><br>
 按图示配置，域名和仓库名就是 用户名.github,io，邮箱填你注册Github时的邮箱，令牌就是刚刚创建的那串代码，填写完成后先点保存，然后点左下角的检测远程连接。</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582513867618.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582513867618.png" alt="" loading="lazy"><br>
 检测成功后，就可以开始根据模版修改出你自己的网站了，一共有四个内置主题（模版），还有更多模版可以下载。点击预览可以看到网页最后的效果，待修改完成后，点击同步，就可以将个人网站的代码上传刚刚创建好的Github的仓库中了。</p>
-<p><img src="https://byter-feimao.github.io/post-images/1582513913905.png" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1582513913905.png" alt="" loading="lazy"><br>
 同步完成后，如果你回到Github上再看，就会发现自己的仓库中多了一堆东西了。</p>
 <h1 id="进入网页">进入网页</h1>
 <p>在浏览器地址栏打入 https://用户名.github.io/ 即可访问你自己的网站了，怎么样，是不是很酷炫，接下来你就可以向你的朋友装逼了（bushi）<br>
