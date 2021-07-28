@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kokurasona.github.io</id>
     <title>Sonatta: 生活小栈</title>
-    <updated>2021-07-28T03:30:06.403Z</updated>
+    <updated>2021-07-28T04:14:58.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kokurasona.github.io"/>
     <link rel="self" href="https://kokurasona.github.io/atom.xml"/>
-    <subtitle>孤坐有谁同此意，白云空见渚禽还。</subtitle>
+    <subtitle>孤坐有谁同此意 白云空见渚禽还</subtitle>
     <logo>https://kokurasona.github.io/images/avatar.png</logo>
     <icon>https://kokurasona.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Sonatta: 生活小栈</rights>
@@ -53,8 +53,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[10 分钟教你创建个人网站 —— 傻瓜式的网站搭建教学]]></title>
-        <id>https://kokurasona.github.io/post/10-fen-zhong-jiao-ni-chuang-jian-ge-ren-wang-zhan-sha-gua-shi-de-wang-zhan-da-jian-jiao-xue/</id>
-        <link href="https://kokurasona.github.io/post/10-fen-zhong-jiao-ni-chuang-jian-ge-ren-wang-zhan-sha-gua-shi-de-wang-zhan-da-jian-jiao-xue/">
+        <id>https://kokurasona.github.io/post/Jbuc9l0W5/</id>
+        <link href="https://kokurasona.github.io/post/Jbuc9l0W5/">
         </link>
         <updated>2020-02-23T15:25:24.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
